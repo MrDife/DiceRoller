@@ -1,0 +1,2 @@
+# DiceRoller
+Esercizio in C#
